@@ -4,6 +4,7 @@
 # ==============================================================================
 """
 This module tests the mrc http web service api.
+very sample version.
 """
 #import urllib2
 import urllib2
@@ -14,7 +15,7 @@ if sys.version[0] == '2':
     reload(sys)
     sys.setdefaultencoding('utf8')
 
-url = "http://yq01-gpu-86-74-18-00.xxx.xxx.com:8000/spo"
+url = "http://yq01-gpu-86-74-18-00.xxx.xxxxx.com:8000/spo"
 
 data = {"s": "广汽传祺gs4", "p": "车体结构", 'para': "传祺GS42015款200TG-DCT精英版车体结构为\
         承载式，了解更多传祺GS42015款200TG-DCT精英版车体结构就来汽车江湖网参数明细频道。"}
