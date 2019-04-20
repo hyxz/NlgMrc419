@@ -1,6 +1,6 @@
 # -*- coding:utf8 -*-
 """
-This module implements the reading comprehension models based on:
+This module implements the reading comprehension models of BiDaf.
 """
 
 import os
